@@ -1,6 +1,13 @@
-# EE5179
+# EE5179 - July November 2022 -  IIT Madras
 
-All tutorials and assignments will be hosted on this repository. 
+Instructor - [Prof. Kaushik Mitra](https://www.ee.iitm.ac.in/kmitra/)
+Teaching Assistant - K Vikas Mahendar
+
+All tutorials and assignments will be hosted on this repository. Each folder corresponds to the tutorial based on concepts taught in the corresponding week. 
+
+## Submission instructions
+
+Once completed, students have to submit their solutions via IITM-Moodle (courses-new). Please submit your notebooks in PDF format. 
 
 ## Convert .ipynb to .PDF
 
