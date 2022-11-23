@@ -1,6 +1,6 @@
 # EE5179 - July November 2022 -  IIT Madras
 
-Instructor - [Prof. Kaushik Mitra](https://www.ee.iitm.ac.in/kmitra/)
+Instructor - [Prof. Kaushik Mitra](https://www.ee.iitm.ac.in/kmitra/) <br>
 Teaching Assistant - K Vikas Mahendar
 
 All tutorials and assignments will be hosted on this repository. Each folder corresponds to the tutorial based on concepts taught in the corresponding week. 
